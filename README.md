@@ -58,7 +58,7 @@ bash netspectre.sh
 
 Lalu masukkan target IP atau domain:
 ```
-Masukkan IP target: 8.8.8.8
+Masukkan Domain target: example.com
 ```
 
 ---
@@ -67,7 +67,7 @@ Masukkan IP target: 8.8.8.8
 
 ```
 ╔════════════════════════════════════╗
-║        🔍 HASIL ANALISIS AI        ║
+║        🔍 HASIL ANALISIS AI              ║
 ╚════════════════════════════════════╝
 
 📌 Target: 8.8.8.8

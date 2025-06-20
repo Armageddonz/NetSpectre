@@ -29,12 +29,10 @@ Dirancang sebagai alat belajar yang futuristik namun ringan, cocok untuk pemula 
 
 ```bash
 pkg install git curl nmap jq -y
-git clone https://github.com/username/NetSpectre.git
+git clone https://github.com/Armageddonz/NetSpectre.git
 cd NetSpectre
 chmod +x netspectre.sh
 ```
-
-> 💡 Ganti `username` dengan akun GitHub kamu
 
 ---
 
